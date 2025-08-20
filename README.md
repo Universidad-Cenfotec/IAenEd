@@ -1,4 +1,12 @@
-## **Aplicaciones Prácticas de IA en la Ciencia de Datos para la Toma de Decisiones**
+# **Aplicaciones Prácticas de IA en la Ciencia de Datos para la Toma de Decisiones**
+
+## Contenidos y Links Importante
+
+- [Referencias y Links](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/links.md)
+- [Descripción del taller](#taller)
+
+
+## Taller
 
 El taller Aplicaciones Prácticas de IA en la Ciencia de Datos para la Toma de Decisiones propone un espacio de exploración activa donde la inteligencia artificial y la ciencia de datos se convierten en medios para aprender, enseñar y reflexionar. Desde tres perspectivas, como aprendiz, como docente y como tema en sí mismo, los participantes se sumergen en experiencias que combinan práctica, análisis crítico y creatividad. La propuesta metodológica XperiencEd AI busca no solo desarrollar habilidades técnicas, sino también cultivar una comprensión profunda del impacto social y ético de estas tecnologías, fomentando una educación que integra la inteligencia humana y artificial en un mismo proceso de construcción colectiva de conocimiento.
 
