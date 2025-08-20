@@ -3,7 +3,7 @@
 Tomás de Camino Beck, Ph.D.  
 Universidad CENFOTEC
 
-Un buen prompt no es solo una instrucción: es una situación de aprendizaje que estimula la construcción, la interpretación y la reflexión.
+Un buen prompt no es solo una instrucción, es una situación de aprendizaje que estimula la construcción, la interpretación y la reflexión.
 
 ---
 
