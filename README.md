@@ -91,7 +91,7 @@ Combina su experiencia científica y tecnológica con una profunda vocación ped
 
 * Computadora portátil  
 * Cuenta de ChatGPT (puede ser la cuenta registrada grátis), Los siguientes pasos:
-  * | Paso | Acción                                                         |
+| Paso | Acción                                                         |
 | ---- | -------------------------------------------------------------- |
 | 1    | Ir a `https://chatgpt.com/auth/login`                          |
 | 2    | Seleccionar “Sign up for free”                                 |
