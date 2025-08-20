@@ -24,6 +24,8 @@ El taller Aplicaciones Prácticas de IA en la Ciencia de Datos para la Toma de D
 | **5\. Ética y uso responsable de la IA** | Reflexiono sobre los riesgos de automatizar decisiones educativas. | Adquiero criterios para enseñar y discutir la ética en la tecnología. | Temas clave: sesgos, privacidad, decisiones sensibles y supervisión humana. |
 | **6\. Aplicación práctica en el entorno educativo** | Identifico cómo aplicar lo aprendido en mi contexto. | Diseñaré propuestas contextualizadas y transferibles. | Propuestas de uso de datos e IA en la planificación, evaluación o gestión. |
 
+Los temas del taller no se abordarán de manera lineal ni como bloques separados, sino que se irán construyendo de forma progresiva y entrelazada, a partir de un concepto umbral, la relación entre Inteligencia Artificial y Datos. Bajo el modelo de aprendizaje experiencial amplificado con IA (XperiencEd AI), los participantes transitarán de la inducción a la experimentación y luego a la reflexión, descubriendo cómo los conceptos emergen y se consolidan en la práctica. Así, cada actividad no solo explora un tema en particular, sino que lo conecta con los demás, generando un aprendizaje integral, crítico y contextualizado.
+
 ## XperiencEd AI
 
 *Metodología experiencial asistida para el desarrollo de competencias en Ciencia de Datos e Inteligencia Artificial*
