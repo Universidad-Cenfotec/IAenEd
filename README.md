@@ -91,14 +91,13 @@ Combina su experiencia científica y tecnológica con una profunda vocación ped
 
 * Computadora portátil  
 * Cuenta de ChatGPT (puede ser la cuenta registrada grátis), Los siguientes pasos:
-| Paso | Acción                                                         |
-| ---- | -------------------------------------------------------------- |
-| 1    | Ir a `https://chatgpt.com/auth/login`                          |
-| 2    | Seleccionar “Sign up for free”                                 |
-| 3    | Completar registro (correo o cuentas externas)                 |
-| 4    | Verificar correo electrónico                                   |
-| 5    | ¡Listo! Ya puedes usar ChatGPT con todas sus funciones básicas |
+  * Ve a **[https://chatgpt.com/auth/login](https://chatgpt.com/auth/login)**
+  * Haz clic en **“Sign up for free”**
+  * Regístrate con tu **correo electrónico** o con una cuenta de **Google, Apple o Microsoft**
+  * **Verifica tu correo electrónico** con el enlace de confirmación
+  * ¡Listo! Ya puedes usar ChatGPT con las funciones básicas
 
+¿Quieres que también te resuma las diferencias entre la cuenta gratuita y la de pago (ChatGPT Plus)?
 
 * Lectura y revisión de los siguientes documentos y material:  
   * de Camino Beck, T. (2025, 7 de julio). *Reparando la educación con inteligencia cyborg: Artificial y humana*. [CRHoy.com](http://CRHoy.com). [https://crhoy.com/reparando-la-educacion-con-inteligencia-cyborg-artificial-y-humana/](https://crhoy.com/reparando-la-educacion-con-inteligencia-cyborg-artificial-y-humana/)    
