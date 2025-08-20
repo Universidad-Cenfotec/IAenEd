@@ -4,6 +4,7 @@
 
 - [Referencias y Links](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/links.md)
 - [Descripción del taller](#taller)
+- [Guía para prompts](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/prompts.md)
 
 
 ## Taller
