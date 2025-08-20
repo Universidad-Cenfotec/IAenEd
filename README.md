@@ -90,7 +90,16 @@ Combina su experiencia científica y tecnológica con una profunda vocación ped
 ## **Recursos necesarios para el Taller**
 
 * Computadora portátil  
-* Cuenta de ChatGPT (puede ser la cuenta registrada grátis)  
+* Cuenta de ChatGPT (puede ser la cuenta registrada grátis), Los siguientes pasos:
+  * | Paso | Acción                                                         |
+| ---- | -------------------------------------------------------------- |
+| 1    | Ir a `https://chatgpt.com/auth/login`                          |
+| 2    | Seleccionar “Sign up for free”                                 |
+| 3    | Completar registro (correo o cuentas externas)                 |
+| 4    | Verificar correo electrónico                                   |
+| 5    | ¡Listo! Ya puedes usar ChatGPT con todas sus funciones básicas |
+
+
 * Lectura y revisión de los siguientes documentos y material:  
   * de Camino Beck, T. (2025, 7 de julio). *Reparando la educación con inteligencia cyborg: Artificial y humana*. [CRHoy.com](http://CRHoy.com). [https://crhoy.com/reparando-la-educacion-con-inteligencia-cyborg-artificial-y-humana/](https://crhoy.com/reparando-la-educacion-con-inteligencia-cyborg-artificial-y-humana/)    
   * de-Camino-Beck, T. (2025, marzo). *Sistemas Inteligentes: Más allá de la IA Generativa*. En *La Cima Digital*, (número 110). [ManifiestoIA\_EnLaCima2024.pdf](https://drive.google.com/file/d/1CT1YXKp0RFXEqPDWtFNvqEChPpYg093n/view?usp=sharing)  
