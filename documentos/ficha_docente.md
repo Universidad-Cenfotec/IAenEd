@@ -1,5 +1,10 @@
 # Ficha de trabajo en grupos — Taller MEP (Datos e IA)
 
+## Objetivo
+
+Realizar un análisis integral de los datos de los estudiantes, con el fin de identificar patrones de desempeño académico, comparar los resultados obtenidos en los diferentes exámenes, evaluar el nivel de riesgo estudiantil y su relación con las calificaciones, así como responder a otras preguntas relevantes que contribuyan a una mejor comprensión de la información y a la toma de decisiones pedagógicas.
+
+
 ## 1. Equipo
 - Integrantes:
 - Sección / Centro educativo:
