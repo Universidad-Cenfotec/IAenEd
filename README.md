@@ -1,6 +1,6 @@
 # **Aplicaciones Prácticas de IA en la Ciencia de Datos para la Toma de Decisiones**
 
-## Contenidos y Links Importante
+## Contenidos y Links Importantes
 
 - [Referencias y Links](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/links.md)
 - [Descripción del taller](#taller)
