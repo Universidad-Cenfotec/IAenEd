@@ -5,7 +5,7 @@
 - Sección / Centro educativo:
 
 ## 2. Producto mínimo (30–40 min)
-- Carguen el CSV `datos_taller_mep.csv`.
+- Carguen el CSV [`datos_taller_mep.csv`](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/datos_taller_mep_preview.csv).
 - Organicen la tabla (columnas, filtros).
 - Generen **al menos 2 visualizaciones** (p. ej., histogramas, barras por sección/sexo).
 - Calculen **estadísticos clave**: promedio, mediana, moda (si aplica), rango, y % en riesgo.
