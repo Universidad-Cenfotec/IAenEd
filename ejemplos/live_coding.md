@@ -4,7 +4,7 @@ Tomás de Camino Beck, Ph.D.
 Universidad CENFOTEC
 
 ## Datos
-* [Descargar `datos_taller_mep.csv`](sandbox:/mnt/data/datos_taller_mep.csv)
+* [Descargar `datos_taller_mep.csv`](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/datos_taller_mep_preview.csv)
 
 Si quieres, subo también una versión en Excel del dataset.
 
@@ -40,7 +40,7 @@ Si quieres, subo también una versión en Excel del dataset.
 
 ## Live coding en **Python / Colab** (15 min)
 
-1. Abre `guia_live_coding_colab.ipynb` en Colab.
+1. Abre [`guia_live_coding_colab.ipynb`](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/guia_live_coding_colab.ipynb) en Colab.
 2. Ejecuta celda por celda:
 
    * Carga de librerías.
