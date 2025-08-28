@@ -8,6 +8,7 @@
 - [Documento base Live Coding Profesor](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/guia_live_coding_colab.ipynb)
 - [Slides de introducción](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/Slides_Intro.pdf)
 - [La inteligencia artificial como mediadora en la construcción del conocimiento](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/ideas_centrales.md#la-inteligencia-artificial-como-mediadora-en-la-construcci%C3%B3n-del-conocimiento)
+- [Ejemplos de Enseñanza amplificada con IA](https://github.com/Universidad-Cenfotec/IAenEd/tree/main/ejemplos)
 
 ## Reto para docentes
 
