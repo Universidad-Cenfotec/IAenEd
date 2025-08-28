@@ -10,6 +10,10 @@
 - [Slides de introducción](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/Slides_Intro.pdf)
 - [La inteligencia artificial como mediadora en la construcción del conocimiento](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/ideas_centrales.md#la-inteligencia-artificial-como-mediadora-en-la-construcci%C3%B3n-del-conocimiento)
 
+## Reto para docentes
+
+Realizar un análisis integral de los datos de los estudiantes, con los datos [](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/datos_taller_mep_preview.csv), con el fin de identificar patrones de desempeño académico, comparar los resultados obtenidos en los diferentes exámenes, evaluar el nivel de riesgo estudiantil y su relación con las calificaciones, así como responder a otras preguntas relevantes que contribuyan a una mejor comprensión de la información y a la toma de decisiones pedagógicas.
+
 
 ## Taller
 
