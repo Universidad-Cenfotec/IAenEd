@@ -31,6 +31,3 @@ La educación aumentada con inteligencia artificial no es la promesa de una ense
 
 El conocimiento del futuro, apoyado por sistemas inteligentes, no residirá en la acumulación de datos, sino en la capacidad de formular preguntas más ricas, de discernir entre lo posible y lo verdadero, y de construir sentido en un mundo donde la información es abundante pero el entendimiento sigue siendo una tarea radicalmente humana.
 
----
-
-¿Quieres que lo deje así, como ensayo conceptual con citas integradas en el flujo, o prefieres que además le agregue un **aparato de referencias en formato APA** al final para darle forma de artículo académico?
