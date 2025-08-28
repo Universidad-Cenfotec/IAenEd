@@ -12,7 +12,7 @@
 
 ## Reto para docentes
 
-Realizar un análisis integral de los datos de los estudiantes, con los datos [](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/datos_taller_mep_preview.csv), con el fin de identificar patrones de desempeño académico, comparar los resultados obtenidos en los diferentes exámenes, evaluar el nivel de riesgo estudiantil y su relación con las calificaciones, así como responder a otras preguntas relevantes que contribuyan a una mejor comprensión de la información y a la toma de decisiones pedagógicas.
+Realizar un análisis integral de los [datos de los estudiantes](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/datos_taller_mep_preview.csv), con el fin de identificar patrones de desempeño académico, comparar los resultados obtenidos en los diferentes exámenes, evaluar el nivel de riesgo estudiantil y su relación con las calificaciones, así como responder a otras preguntas relevantes que contribuyan a una mejor comprensión de la información y a la toma de decisiones pedagógicas.
 
 
 ## Taller
