@@ -6,7 +6,7 @@
 - [Descripción del taller](#taller)
 - [Guía para prompts](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/prompts.md)
 - [Slides de introducción](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/Slides_Intro.pdf)
-- [La inteligencia artificial como mediadora en la construcción del conocimiento](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/ideas_centrales.md#la-inteligencia-artificial-como-mediadora-en-la-construcci%C3%B3n-del-conocimiento)
+- [Fundamento de IA en constructivismo](https://github.com/Universidad-Cenfotec/IAenEd/blob/main/documentos/ideas_centrales.md#la-inteligencia-artificial-como-mediadora-en-la-construcci%C3%B3n-del-conocimiento)
 - [Ejemplos de Enseñanza amplificada con IA](https://github.com/Universidad-Cenfotec/IAenEd/tree/main/ejemplos)
 
 ## Reto para docentes
