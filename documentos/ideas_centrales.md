@@ -31,3 +31,18 @@ La educación aumentada con inteligencia artificial no es la promesa de una ense
 
 El conocimiento del futuro, apoyado por sistemas inteligentes, no residirá en la acumulación de datos, sino en la capacidad de formular preguntas más ricas, de discernir entre lo posible y lo verdadero, y de construir sentido en un mundo donde la información es abundante pero el entendimiento sigue siendo una tarea radicalmente humana.
 
+## Referencias
+
+* Freire, P. (1970). *Pedagogía del oprimido*. Siglo XXI Editores.
+
+* Han, B.-C. (2012). *La sociedad de la transparencia*. Herder Editorial.
+
+* Illich, I. (1971). *Deschooling society*. Harper & Row.
+
+* Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books.
+
+* Simon, H. A. (1979). *Models of thought* (Vol. 1). Yale University Press.
+
+* von Foerster, H. (2003). *Understanding understanding: Essays on cybernetics and cognition*. Springer.
+
+
